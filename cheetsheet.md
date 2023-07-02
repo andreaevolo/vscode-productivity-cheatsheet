@@ -50,10 +50,11 @@ Duplicate line or selected lines:
 Replace all shortcut:
   - windows: ctrl + h
   - mac: cmd + h
-  
+
 Replace individual selection:
   - windows: ctrl + d
   - mac: ctrl + d
+
 Write on multiple lines:
   - windows: alt + left click
   - mac: option + left click
@@ -62,9 +63,10 @@ Move line or selected block
   - mac: option + arrow ( up / down )
 
 # General shortcuts
-  Search symbol declaration:
-    - windows: ctrl + shift + o
-    - mac: cmd + shift + o
-  Go to specific line:
-    - windows: ctrl + g
-    - mac: cmd + g
+Search symbol declaration:
+  - windows: ctrl + shift + o
+  - mac: cmd + shift + o
+  
+Go to specific line:
+  - windows: ctrl + g
+  - mac: cmd + g
